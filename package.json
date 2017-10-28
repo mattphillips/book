@@ -1,0 +1,19 @@
+{
+  "name": "book",
+  "version": "0.0.1",
+  "description": "Testing gitbook",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "mattphillips",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattphillips/book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattphillips/book/issues"
+  },
+  "homepage": "https://github.com/mattphillips/book#readme"
+}
