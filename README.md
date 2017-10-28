@@ -20,6 +20,8 @@ Testing gitbook
 
 ## Installation
 
+<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/languages/jest"></iframe>
+
 With npm:
 ```sh
 npm install --save-dev book
